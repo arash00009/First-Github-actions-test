@@ -2,11 +2,6 @@
 
 Jag heter Arash, en DevOps Engineer student och tidigare sociolog som älskar att automatisera, lära mig nya tekniker och skapa roliga projekt. Här är några saker om mig:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arash-rahimi92&show_icons=true&theme=tokyonight&show=prs_merged,issues,contribs)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arash-rahimi92&layout=compact&theme=tokyonight)
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=arash-rahimi92&theme=tokyonight)
-
-
 
 ## Besöksräknare
 ![Visitors](https://komarev.com/ghpvc/?username=arash-rahimi92&label=Profile%20views&color=blue&style=flat)
